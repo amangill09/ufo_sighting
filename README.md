@@ -2,7 +2,7 @@
 # **UFO Sightings with JavaScripts**
 
 **Note:**
-I worked with Aman Gill for this challenge. We followed pair-programming methodology and the code and readme was co-created.
+I worked with Puneeth for this challenge. We followed pair-programming methodology and the code and readme was co-created.
 
 ## **Purpose of analysis**
 
